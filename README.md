@@ -18,6 +18,7 @@ For hardware implementation (e.g., Basys 3), synthesize the design and program t
 Simulation Results
 The counter cycles through 0-9 at selected speeds.
 Buttons change the speed after a 10ms debounce period.
+<img width="1882" height="512" alt="waveform" src="https://github.com/user-attachments/assets/ac490bdb-4a88-4561-bd47-4a612419ba58" />
 
 Prerequisites
 Vivado 2019 or later.
