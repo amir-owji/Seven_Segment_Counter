@@ -17,7 +17,7 @@ Binary Counter: Counts from 0 to 9 using the divided clock.
 
 Speed Control: Adjusts speed using up and down buttons with debounce filtering (10ms).
 
-#How to Use
+How to Use
 
 Add all .vhd files to a Vivado 2019 project.
 
